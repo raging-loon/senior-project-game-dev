@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Entry2.unity
+- path: Assets/Scenes/entry2-medical-bay.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
